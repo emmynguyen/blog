@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: Hello, world! I'm Emily Nguyen
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,17 +12,17 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Emily Nguyen # add your name
 author-img: Professional_Picture.jpg # add your photo
 about-author: I am a Data & AI Consultant at Microsoft. # add description
-social-twitter: # add your Twitter handle
+social-twitter: emnguyenslife # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: emmynguyen # add your Github handle
 social-linkedin: emilydnguyen # add your Linkedin handle
-social-email: # add your Email address
+social-email: eminguyen142@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-162839204-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
